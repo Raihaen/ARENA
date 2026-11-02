@@ -44,6 +44,3 @@ We know that $h(x) = (A \otimes W_O W_V)  x$. You can also notice that products 
 
 [Link](https://www.youtube.com/watch?v=dCkQQYwPxdM)
 
-what is an induction head? a small circuit that gets learned by transformers: two attention heads in different layers that learns to look for repeated sequences in the text and continue.
-
-these induction heads are also (claim of the paper) the mechanism that allows models to do in-context learning. the small bump in loss is argued to be because of induction heads.
